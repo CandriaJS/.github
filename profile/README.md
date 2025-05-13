@@ -13,16 +13,20 @@
 
 ## 组织仓库 📦
 
-以下是我们的主要开源仓库：
+以下是我们的主要仓库：
 
 ### Miao-Yunzai & TRSS-Yunzai Bot 相关
 
--   [柠糖表情](https://github.com/CandriaJS/meme-plugin) 🔗
--   [柠糖表情 V2](https://github.com/TaoriJS/meme-plugin) (由 TaoriJS 维护) 🔗
+-   [清语表情](https://github.com/CandriaJS/meme-plugin) 🔗 表情包合成插件V1
+-   [柠糖表情 V2(原 清语表情)](https://github.com/TaoriJS/meme-plugin) (由 TaoriJS 维护) 🔗 表情包合成插件V2
 
 ### Karin Bot 相关
 
--   [柠糖表情](https://github.com/CandriaJS/karin-plugin-meme) 🔗
+-   [柠糖表情(原 清语表情)](https://github.com/CandriaJS/karin-plugin-meme) 🔗 表情包合成插件V1&V2   
+
+### 核心库相关
+
+- [git-neko-kit](https://github.com/CandriaJS/git-neko-kit) 🔗 gitee,github,gitcode核心封装库
 
 ## 组织规范 📜
 
@@ -42,5 +46,5 @@
 
 当前组织所有者：
 
--   **雾里** 🔗: [https://github.com/shiwuliya](https://github.com/shiwuliya)
+-   **雾里** 🔗: [shiwuliya](https://github.com/shiwuliya)
 -   **联系 QQ** 💬: 3369906077
