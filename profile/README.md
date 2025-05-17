@@ -18,7 +18,6 @@
 ### Miao-Yunzai & TRSS-Yunzai Bot 相关
 
 -   [清语表情](https://github.com/CandriaJS/meme-plugin) 🔗 表情包合成插件V1
--   [柠糖表情 V2(原 清语表情)](https://github.com/TaoriJS/meme-plugin) (由 TaoriJS 维护) 🔗 表情包合成插件V2
 
 ### Karin Bot 相关
 
@@ -41,6 +40,12 @@
 欢迎加入我们的社区，一起交流和讨论：
 
 -   **QQ 群** 💬: 272040396
+
+---
+
+**📢 注意：** 由于目前主要由 **雾里** 一人进行开发，项目进度可能较慢。如果您有兴趣参与合作开发，非常欢迎！请通过下方的联系方式与我取得联系，一起为项目贡献力量。
+
+---
 
 ## 组织所有者 👤
 
