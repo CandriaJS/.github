@@ -17,7 +17,7 @@
 
 ### Miao-Yunzai & TRSS-Yunzai Bot 相关
 
--   [清语表情](https://github.com/CandriaJS/meme-plugin) 🔗 表情包合成插件V1
+-   [柠糖表情(原 清语表情](https://github.com/CandriaJS/meme-plugin) 🔗 表情包合成插件V1&V2  
 -   [柠糖emoji](https://github.com/CandriaJS/emojimix-plugin) 🔗 emoji合成插件
 
 ### Karin Bot 相关
