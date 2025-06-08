@@ -23,6 +23,7 @@
 ### Karin Bot 相关
 
 -   [柠糖表情(原 清语表情)](https://github.com/CandriaJS/karin-plugin-meme) 🔗 表情包合成插件V1&V2   
+-   [柠糖图片操作](https://github.com/CandriaJS/karin-plugin-imagetools) 🔗 图片操作插件
 -   [柠糖emoji)](https://github.com/CandriaJS/karin-plugin-emojimix) 🔗 emoji合成插件
 
 ### 核心库相关
