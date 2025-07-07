@@ -7,7 +7,7 @@
 我们主要围绕以下项目进行开发：
 
 1.  Miao-Yunzai & TRSS-Yunzai
-2.  Karin Bot
+<!-- 2.  Karin Bot -->
 
 我们的主要工作是制作高质量的插件以及进行核心库的开发。
 
@@ -15,10 +15,10 @@
 
 以下是我们的主要仓库：
 
-### Miao-Yunzai & TRSS-Yunzai Bot 相关
+<!-- ### Miao-Yunzai & TRSS-Yunzai Bot 相关
 
 -   [柠糖表情(原 清语表情](https://github.com/CandriaJS/meme-plugin) 🔗 表情包合成插件V1&V2  
--   [柠糖emoji](https://github.com/CandriaJS/emojimix-plugin) 🔗 emoji合成插件
+-   [柠糖emoji](https://github.com/CandriaJS/emojimix-plugin) 🔗 emoji合成插件 -->
 
 ### Karin Bot 相关
 
